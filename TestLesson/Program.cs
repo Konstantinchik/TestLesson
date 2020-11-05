@@ -30,7 +30,7 @@ namespace TestLesson
         /// </summary>
         public static void Task13()
         {
-            int[] m = new int[] { 3, 5, 1, 9, 0, 5, 8, 0, 4, 4, 4, 4, 4 };
+            int[] m = new int[] { 3, 5, 1, 9, 0, 5, 8, 0, 4, 4, 4, 4, 4, 0, 0, 0 };
         }
     }
 }
